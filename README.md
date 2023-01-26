@@ -1,2 +1,2 @@
-# Practicing free code camp
+Practicing free code camp
  
